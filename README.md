@@ -8,7 +8,7 @@
 
 - Презентация на тему «Пример одноуровневой клиент-серверной архитектуры» ([PDF](presentation/presentation.pdf), [PPTX](presentation/presentation.pptx))
 - Проект на тему «Документ о концепциях и границах информационной системы
-каталога личных вещей» ([PDF](project/project.pdf), [PPTX](project/project.pptx))
+каталога личных вещей» ([PDF](project/project.pdf), [DOCX](project/project.docx))
 
 ## Контакты
 
